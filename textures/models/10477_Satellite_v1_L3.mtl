@@ -12,5 +12,5 @@ newmtl 10477_Satellite_v1
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.6750 0.6750 0.6750
 	Ke 0.0000 0.0000 0.0000
-	map_Ka /textures/10477_Satellite_v1_Diffuse.jpg
-	map_Kd /textures/10477_Satellite_v1_Diffuse.jpg
+	map_Ka /portfoliowebsite/textures/10477_Satellite_v1_Diffuse.jpg
+	map_Kd /portfoliowebsite/textures/10477_Satellite_v1_Diffuse.jpg
